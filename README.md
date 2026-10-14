@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Somayah Hussein 👋
 
-I'm a third-year **Computer Science & Mathematics** student at Northeastern University with a deep interest in the intersection of software engineering and mathematical theory. I'm drawn to machine learning, full-stack development, and building products that make a real impact — particularly in **finance** and **bio/healthcare**.
-
----
-
-## 🔭 What I'm Working On
-
-- **Sifted** — Bringing a product I designed in a product design incubator to life as a working prototype. This is a project where I get to wear every hat: from product thinking to engineering.
-- **Deep Learning Specialization** — Working through a certification program to deepen my understanding of neural networks and modern ML. My goal is to build something meaningful with **PyTorch** after completion.
+I'm a fourth-year **Computer Science & Mathematics** student at Northeastern University with a deep interest in the intersection of software engineering and mathematical theory. I'm drawn to machine learning, full-stack development, and building products that make a real impact.
 
 ---
 
@@ -37,7 +30,7 @@ I'm a third-year **Computer Science & Mathematics** student at Northeastern Univ
 
 ## 🏋️ Beyond the Code
 
-Outside of tech, I'm a competitive powerlifter — I've competed at the national level multiple times. Powerlifting has taught me a lot about consistency, community, and showing up even when progress is slow. (The same lessons apply to debugging.)
+Outside of tech, I'm a competitive powerlifter. I've competed at the national level multiple times. Powerlifting has taught me a lot about consistency, community, and showing up even when progress is slow.
 
 ---
 
